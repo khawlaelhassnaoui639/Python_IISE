@@ -1,0 +1,4 @@
+& C:/Users/ACER/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ACER/Documents/Master IISE/TP5/EX3.py"
+& C:/Users/ACER/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ACER/Documents/Master IISE/TP5/EX9.py"
+hj
+sqlut
